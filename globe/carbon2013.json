@@ -1,0 +1,161 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 [\{"Country":"Afghanistan"," Latitude":33.7680065," Longitude":66.2385139," Magnitude":0.7000\},\
+\{"Country":"Albania"," Latitude":41.000028," Longitude":19.9999619," Magnitude":1.7000\},\
+\{"Country":"Algeria"," Latitude":28.0000272," Longitude":2.9999825," Magnitude":3.5000\},\
+\{"Country":"Angola"," Latitude":-11.8775767," Longitude":17.5691241," Magnitude":1.4000\},\
+\{"Country":"Antigua and Barbuda"," Latitude":17.079128," Longitude":-61.8222515," Magnitude":5.8000\},\
+\{"Country":"Argentina"," Latitude":-34.9964962," Longitude":-64.9672816," Magnitude":4.5000\},\
+\{"Country":"Australia"," Latitude":-24.7761085," Longitude":134.755," Magnitude":16.3000\},\
+\{"Country":"Austria"," Latitude":47.2000338," Longitude":13.199959," Magnitude":7.4000\},\
+\{"Country":"Bahamas, The"," Latitude":24.7736546," Longitude":-78.0000546," Magnitude":8.2000\},\
+\{"Country":"Bahrain"," Latitude":26.1551249," Longitude":50.5344606," Magnitude":23.7000\},\
+\{"Country":"Barbados"," Latitude":13.1500331," Longitude":-59.5250304," Magnitude":5.1000\},\
+\{"Country":"Belgium"," Latitude":50.6407351," Longitude":4.66696," Magnitude":8.4000\},\
+\{"Country":"Belize"," Latitude":16.8259793," Longitude":-88.7600926," Magnitude":1.5000\},\
+\{"Country":"Benin"," Latitude":9.5293472," Longitude":2.2584408," Magnitude":0.6000\},\
+\{"Country":"Bermuda"," Latitude":32.3018217," Longitude":-64.7603582," Magnitude":5.6000\},\
+\{"Country":"Bolivia"," Latitude":-17.7955832," Longitude":-63.1774982," Magnitude":1.9000\},\
+\{"Country":"Brazil"," Latitude":-10.3333332," Longitude":-53.1999999," Magnitude":2.5000\},\
+\{"Country":"Brunei Darussalam"," Latitude":4.4137155," Longitude":114.5653908," Magnitude":18.9000\},\
+\{"Country":"Bulgaria"," Latitude":42.6073975," Longitude":25.4856617," Magnitude":5.4000\},\
+\{"Country":"Burkina Faso"," Latitude":12.0753083," Longitude":-1.6880313," Magnitude":0.2000\},\
+\{"Country":"Burundi"," Latitude":-3.3634356," Longitude":29.8870575," Magnitude":0.0000\},\
+\{"Country":"Cabo Verde"," Latitude":16.0000552," Longitude":-24.0083946," Magnitude":0.9000\},\
+\{"Country":"Cambodia"," Latitude":13.5066394," Longitude":104.869423," Magnitude":0.4000\},\
+\{"Country":"Cameroon"," Latitude":4.6125522," Longitude":13.1535811," Magnitude":0.3000\},\
+\{"Country":"Canada"," Latitude":61.0666922," Longitude":-107.991707," Magnitude":13.5000\},\
+\{"Country":"Cayman Islands"," Latitude":19.5417212," Longitude":-80.5667131," Magnitude":9.2000\},\
+\{"Country":"Central African Republic"," Latitude":25.2183959," Longitude":55.17523858," Magnitude":0.1000\},\
+\{"Country":"Chad"," Latitude":15.6134137," Longitude":19.0156172," Magnitude":0.0000\},\
+\{"Country":"Chile"," Latitude":-31.7613364," Longitude":-71.3187696," Magnitude":4.7000\},\
+\{"Country":"China"," Latitude":35.000074," Longitude":104.999927," Magnitude":7.6000\},\
+\{"Country":"Colombia"," Latitude":2.8894434," Longitude":73.7838919," Magnitude":1.9000\},\
+\{"Country":"Comoros"," Latitude":-12.2045175," Longitude":44.2832964," Magnitude":0.2000\},\
+\{"Country":"Congo, Dem. Rep."," Latitude":-2.9814343," Longitude":23.8222636," Magnitude":0.0000\},\
+\{"Country":"Congo, Rep."," Latitude":-0.7264326," Longitude":15.6419155," Magnitude":0.6000\},\
+\{"Country":"Costa Rica"," Latitude":10.2735633," Longitude":-84.0739101," Magnitude":1.6000\},\
+\{"Country":"Cote d'Ivoire"," Latitude":7.9897371," Longitude":-5.5679457," Magnitude":0.4000\},\
+\{"Country":"Croatia"," Latitude":45.5643442," Longitude":17.0118954," Magnitude":4.2000\},\
+\{"Country":"Cuba"," Latitude":23.0131338," Longitude":-80.8328747," Magnitude":3.5000\},\
+\{"Country":"Cyprus"," Latitude":34.9823018," Longitude":33.1451285," Magnitude":5.2000\},\
+\{"Country":"Czech Republic"," Latitude":49.8167003," Longitude":15.4749544," Magnitude":9.4000\},\
+\{"Country":"Denmark"," Latitude":55.670249," Longitude":10.3333283," Magnitude":6.8000\},\
+\{"Country":"Djibouti"," Latitude":11.85677545," Longitude":42.75778452," Magnitude":0.7000\},\
+\{"Country":"Dominica"," Latitude":15.4113138," Longitude":-61.3653617," Magnitude":1.8000\},\
+\{"Country":"Dominican Republic"," Latitude":19.0974031," Longitude":-70.3028025," Magnitude":2.1000\},\
+\{"Country":"Ecuador"," Latitude":-1.3397667," Longitude":-79.3666964," Magnitude":2.8000\},\
+\{"Country":"Egypt, Arab Rep."," Latitude":26.2540493," Longitude":29.2675469," Magnitude":2.4000\},\
+\{"Country":"El Salvador"," Latitude":13.8000382," Longitude":-88.9140682," Magnitude":1.0000\},\
+\{"Country":"Equatorial Guinea"," Latitude":1.613172," Longitude":10.5170357," Magnitude":6.8000\},\
+\{"Country":"Ethiopia"," Latitude":10.2116702," Longitude":38.6521203," Magnitude":0.1000\},\
+\{"Country":"Faroe Islands"," Latitude":62.19889095," Longitude":-6.817807306," Magnitude":12.3000\},\
+\{"Country":"Fiji"," Latitude":-18.1239695," Longitude":179.0122737," Magnitude":1.9000\},\
+\{"Country":"Finland"," Latitude":63.2467777," Longitude":25.9209164," Magnitude":8.5000\},\
+\{"Country":"France"," Latitude":46.603354," Longitude":1.8883335," Magnitude":5.1000\},\
+\{"Country":"French Polynesia"," Latitude":-18.6243748," Longitude":-144.6434897," Magnitude":3.0000\},\
+\{"Country":"Gabon"," Latitude":-0.8999694," Longitude":11.6899699," Magnitude":2.9000\},\
+\{"Country":"Gambia, The"," Latitude":13.470062," Longitude":-15.4900463," Magnitude":0.3000\},\
+\{"Country":"Ghana"," Latitude":8.0300284," Longitude":-1.080027," Magnitude":0.6000\},\
+\{"Country":"Gibraltar"," Latitude":36.1451465," Longitude":-5.3484847," Magnitude":15.5000\},\
+\{"Country":"Greece"," Latitude":38.9953683," Longitude":21.9877132," Magnitude":6.3000\},\
+\{"Country":"Greenland"," Latitude":77.6192349," Longitude":-42.8125966," Magnitude":10.1000\},\
+\{"Country":"Grenada"," Latitude":12.1360374," Longitude":-61.6904044," Magnitude":2.9000\},\
+\{"Country":"Guatemala"," Latitude":15.6356088," Longitude":-89.8988086," Magnitude":0.9000\},\
+\{"Country":"Guinea"," Latitude":10.7226226," Longitude":-10.7083586," Magnitude":0.2000\},\
+\{"Country":"Guinea-Bissau"," Latitude":12.100035," Longitude":-14.9000213," Magnitude":0.1000\},\
+\{"Country":"Guyana"," Latitude":4.8417097," Longitude":-58.641689," Magnitude":2.5000\},\
+\{"Country":"Haiti"," Latitude":19.1399952," Longitude":-72.3570971," Magnitude":0.2000\},\
+\{"Country":"Honduras"," Latitude":15.0610686," Longitude":-84.5978533," Magnitude":1.2000\},\
+\{"Country":"Hong Kong SAR, China"," Latitude":22.2793278," Longitude":114.1628131," Magnitude":6.3000\},\
+\{"Country":"Hungary"," Latitude":47.1817585," Longitude":19.5060937," Magnitude":4.2000\},\
+\{"Country":"Iceland"," Latitude":64.9841821," Longitude":-18.1059012," Magnitude":6.1000\},\
+\{"Country":"India"," Latitude":22.3511148," Longitude":78.6677428," Magnitude":1.6000\},\
+\{"Country":"Indonesia"," Latitude":-4.7993355," Longitude":114.5632032," Magnitude":1.9000\},\
+\{"Country":"Iran, Islamic Rep."," Latitude":32.9407496," Longitude":52.9471344," Magnitude":8.0000\},\
+\{"Country":"Iraq"," Latitude":33.0955793," Longitude":44.1749775," Magnitude":4.9000\},\
+\{"Country":"Ireland"," Latitude":52.865196," Longitude":-7.9794598," Magnitude":7.6000\},\
+\{"Country":"Israel"," Latitude":30.8760272," Longitude":35.0015196," Magnitude":8.8000\},\
+\{"Country":"Italy"," Latitude":42.6384261," Longitude":12.674297," Magnitude":5.7000\},\
+\{"Country":"Jamaica"," Latitude":18.1850507," Longitude":-77.3947692," Magnitude":2.8000\},\
+\{"Country":"Japan"," Latitude":36.5748441," Longitude":139.2394179," Magnitude":9.8000\},\
+\{"Country":"Jordan"," Latitude":31.1667049," Longitude":36.941628," Magnitude":3.4000\},\
+\{"Country":"Kenya"," Latitude":1.4419683," Longitude":38.4313975," Magnitude":0.3000\},\
+\{"Country":"Korea, Rep."," Latitude":35.3985008," Longitude":127.937111," Magnitude":11.8000\},\
+\{"Country":"Kuwait"," Latitude":29.2733964," Longitude":47.4979476," Magnitude":27.3000\},\
+\{"Country":"Lebanon"," Latitude":33.8750629," Longitude":35.843409," Magnitude":4.3000\},\
+\{"Country":"Liberia"," Latitude":5.7499721," Longitude":-9.3658523," Magnitude":0.2000\},\
+\{"Country":"Libya"," Latitude":26.8234472," Longitude":18.1236723," Magnitude":8.1000\},\
+\{"Country":"Luxembourg"," Latitude":49.8158683," Longitude":6.1296751," Magnitude":18.7000\},\
+\{"Country":"Macao SAR, China"," Latitude":22.1899448," Longitude":113.5380454," Magnitude":3.8000\},\
+\{"Country":"Madagascar"," Latitude":-18.9249603," Longitude":46.4416422," Magnitude":0.1000\},\
+\{"Country":"Mali"," Latitude":16.3700359," Longitude":-2.2900238," Magnitude":0.1000\},\
+\{"Country":"Malta"," Latitude":27.5015719," Longitude":85.2451666," Magnitude":5.2000\},\
+\{"Country":"Mauritania"," Latitude":20.2540382," Longitude":-9.2399262," Magnitude":0.7000\},\
+\{"Country":"Mauritius"," Latitude":-20.275945," Longitude":57.5703566," Magnitude":3.0000\},\
+\{"Country":"Mexico"," Latitude":19.4326009," Longitude":-99.1333415," Magnitude":3.9000\},\
+\{"Country":"Mongolia"," Latitude":46.8250388," Longitude":103.8499736," Magnitude":14.5000\},\
+\{"Country":"Morocco"," Latitude":31.1728192," Longitude":-7.3366042," Magnitude":1.8000\},\
+\{"Country":"Mozambique"," Latitude":-19.3022329," Longitude":34.9144977," Magnitude":0.2000\},\
+\{"Country":"Myanmar"," Latitude":17.1750495," Longitude":95.9999652," Magnitude":0.2000\},\
+\{"Country":"Nepal"," Latitude":28.1082107," Longitude":84.0917515," Magnitude":0.2000\},\
+\{"Country":"Netherlands"," Latitude":52.2379891," Longitude":5.534607382," Magnitude":10.1000\},\
+\{"Country":"New Caledonia"," Latitude":-21.3019904," Longitude":165.4880773," Magnitude":14.7000\},\
+\{"Country":"New Zealand"," Latitude":-41.500083," Longitude":172.8344077," Magnitude":7.6000\},\
+\{"Country":"Nicaragua"," Latitude":12.3724928," Longitude":-84.8700307," Magnitude":0.8000\},\
+\{"Country":"Niger"," Latitude":17.7356214," Longitude":9.3238432," Magnitude":0.1000\},\
+\{"Country":"Nigeria"," Latitude":9.6000359," Longitude":7.9999721," Magnitude":0.6000\},\
+\{"Country":"Norway"," Latitude":64.574131," Longitude":11.52701029," Magnitude":11.7000\},\
+\{"Country":"Pakistan"," Latitude":30.3308401," Longitude":71.247499," Magnitude":0.8000\},\
+\{"Country":"Palau"," Latitude":6.097367," Longitude":133.313631," Magnitude":10.7000\},\
+\{"Country":"Panama"," Latitude":8.3096067," Longitude":-81.3066245," Magnitude":2.7000\},\
+\{"Country":"Papua New Guinea"," Latitude":-6.67028765," Longitude":146.9966624," Magnitude":0.8000\},\
+\{"Country":"Paraguay"," Latitude":-23.3165934," Longitude":-58.1693444," Magnitude":0.8000\},\
+\{"Country":"Peru"," Latitude":-6.8699696," Longitude":-75.0458514," Magnitude":1.9000\},\
+\{"Country":"Philippines"," Latitude":39.9106408," Longitude":116.4330274," Magnitude":1.0000\},\
+\{"Country":"Poland"," Latitude":52.0977181," Longitude":19.0258159," Magnitude":7.9000\},\
+\{"Country":"Portugal"," Latitude":40.033265," Longitude":-7.8896262," Magnitude":4.4000\},\
+\{"Country":"Qatar"," Latitude":25.3336984," Longitude":51.2295295," Magnitude":40.5000\},\
+\{"Country":"Romania"," Latitude":45.9852129," Longitude":24.6859225," Magnitude":3.5000\},\
+\{"Country":"Rwanda"," Latitude":-1.964663," Longitude":30.0644358," Magnitude":0.1000\},\
+\{"Country":"Samoa"," Latitude":-13.7693894," Longitude":-172.1200507," Magnitude":1.3000\},\
+\{"Country":"Sao Tome and Principe"," Latitude":0.8875498," Longitude":6.9648718," Magnitude":0.6000\},\
+\{"Country":"Saudi Arabia"," Latitude":25.6242618," Longitude":42.3528328," Magnitude":17.9000\},\
+\{"Country":"Senegal"," Latitude":14.4750607," Longitude":-14.4529611," Magnitude":0.6000\},\
+\{"Country":"Sierra Leone"," Latitude":8.6400349," Longitude":-11.8400268," Magnitude":0.2000\},\
+\{"Country":"Singapore"," Latitude":1.2904527," Longitude":103.852038," Magnitude":9.4000\},\
+\{"Country":"Solomon Islands"," Latitude":-9.7354343," Longitude":162.8288542," Magnitude":0.4000\},\
+\{"Country":"Somalia"," Latitude":8.3676771," Longitude":49.083416," Magnitude":0.1000\},\
+\{"Country":"South Africa"," Latitude":-28.8166235," Longitude":24.991639," Magnitude":8.9000\},\
+\{"Country":"South Sudan"," Latitude":7.8699431," Longitude":29.6667897," Magnitude":0.1000\},\
+\{"Country":"Spain"," Latitude":40.0028028," Longitude":-4.0031039," Magnitude":5.1000\},\
+\{"Country":"Sri Lanka"," Latitude":7.878," Longitude":80.70382459," Magnitude":0.8000\},\
+\{"Country":"St. Kitts and Nevis"," Latitude":17.3462278," Longitude":-62.7687276," Magnitude":5.1000\},\
+\{"Country":"St. Lucia"," Latitude":13.8250489," Longitude":-60.9750359," Magnitude":2.2000\},\
+\{"Country":"St. Vincent and the Grenadines"," Latitude":12.90447," Longitude":-61.2765568," Magnitude":1.9000\},\
+\{"Country":"Sudan"," Latitude":15.45374395," Longitude":29.79515252," Magnitude":0.3000\},\
+\{"Country":"Suriname"," Latitude":4.1413025," Longitude":-56.0771186," Magnitude":3.9000\},\
+\{"Country":"Swaziland"," Latitude":-26.5624805," Longitude":31.3991317," Magnitude":0.9000\},\
+\{"Country":"Sweden"," Latitude":59.6749712," Longitude":14.5208584," Magnitude":4.6000\},\
+\{"Country":"Switzerland"," Latitude":46.7985624," Longitude":8.2319736," Magnitude":5.0000\},\
+\{"Country":"Syrian Arab Republic"," Latitude":34.6401861," Longitude":39.0494106," Magnitude":1.9000\},\
+\{"Country":"Tanzania"," Latitude":-6.5247122," Longitude":35.7878438," Magnitude":0.2000\},\
+\{"Country":"Thailand"," Latitude":14.8971921," Longitude":100.83273," Magnitude":4.5000\},\
+\{"Country":"Togo"," Latitude":8.7800265," Longitude":1.0199765," Magnitude":0.3000\},\
+\{"Country":"Tonga"," Latitude":-19.9160818," Longitude":-175.2026423," Magnitude":2.0000\},\
+\{"Country":"Trinidad and Tobago"," Latitude":10.8677845," Longitude":-60.9821066," Magnitude":34.5000\},\
+\{"Country":"Tunisia"," Latitude":33.8439408," Longitude":9.400138," Magnitude":2.5000\},\
+\{"Country":"Turkey"," Latitude":38.9597594," Longitude":34.9249653," Magnitude":4.2000\},\
+\{"Country":"Uganda"," Latitude":1.5333554," Longitude":32.2166578," Magnitude":0.1000\},\
+\{"Country":"United Arab Emirates"," Latitude":24.0002488," Longitude":53.9994829," Magnitude":18.7000\},\
+\{"Country":"United Kingdom"," Latitude":54.7023545," Longitude":-3.2765752," Magnitude":7.1000\},\
+\{"Country":"United States"," Latitude":39.7837304," Longitude":-100.4458824," Magnitude":16.4000\},\
+\{"Country":"Uruguay"," Latitude":-32.8755547," Longitude":-56.0201524," Magnitude":2.2000\},\
+\{"Country":"Venezuela, RB"," Latitude":37.9415914," Longitude":-0.7724195," Magnitude":6.1000\},\
+\{"Country":"Vietnam"," Latitude":13.2904027," Longitude":108.4265113," Magnitude":1.7000\},\
+\{"Country":"Yemen, Rep."," Latitude":16.3471243," Longitude":47.8915271," Magnitude":1.0000\}]}
