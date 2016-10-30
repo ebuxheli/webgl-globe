@@ -41,10 +41,8 @@
 \{"Country":"Congo, Rep.","mag1":0.200,"mag2":0.6000,"lat":-0.7264326,"long":15.6419155\},\
 \{"Country":"Costa Rica","mag1":0.400,"mag2":1.6000,"lat":10.2735633,"long":-84.0739101\},\
 \{"Country":"Cote d'Ivoire","mag1":0.100,"mag2":0.4000,"lat":7.9897371,"long":-5.5679457\},\
-\{"Country":"Croatia","mag1":NONE,"mag2":4.2000,"lat":45.5643442,"long":17.0118954\},\
 \{"Country":"Cuba","mag1":1.900,"mag2":3.5000,"lat":23.0131338,"long":-80.8328747\},\
 \{"Country":"Cyprus","mag1":1.500,"mag2":5.2000,"lat":34.9823018,"long":33.1451285\},\
-\{"Country":"Czech Republic","mag1":NONE,"mag2":9.4000,"lat":49.8167003,"long":15.4749544\},\
 \{"Country":"Denmark","mag1":6.500,"mag2":6.8000,"lat":55.670249,"long":10.3333283\},\
 \{"Country":"Djibouti","mag1":0.500,"mag2":0.7000,"lat":11.85677545,"long":42.75778452\},\
 \{"Country":"Dominica","mag1":0.200,"mag2":1.8000,"lat":15.4113138,"long":-61.3653617\},\
@@ -132,7 +130,6 @@
 \{"Country":"Solomon Islands","mag1":0.100,"mag2":0.4000,"lat":-9.7354343,"long":162.8288542\},\
 \{"Country":"Somalia","mag1":0.000,"mag2":0.1000,"lat":8.3676771,"long":49.083416\},\
 \{"Country":"South Africa","mag1":5.600,"mag2":8.9000,"lat":-28.8166235,"long":24.991639\},\
-\{"Country":"South Sudan","mag1":NONE,"mag2":0.1000,"lat":7.8699431,"long":29.6667897\},\
 \{"Country":"Spain","mag1":1.600,"mag2":5.1000,"lat":40.0028028,"long":-4.0031039\},\
 \{"Country":"Sri Lanka","mag1":0.200,"mag2":0.8000,"lat":7.878,"long":80.70382459\},\
 \{"Country":"St. Kitts and Nevis","mag1":0.200,"mag2":5.1000,"lat":17.3462278,"long":-62.7687276\},\
